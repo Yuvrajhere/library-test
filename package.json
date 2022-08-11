@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yuvrajhere/library-test/issues"
   },
-  "homepage": "https://github.com/Yuvrajhere/library-test#readme"
+  "homepage": "https://github.com/Yuvrajhere/library-test#readme",
+  "publishConfig": {
+    "@yuvrajhere:registry": "https://npm.pkg.github.com"
+  }
 }
